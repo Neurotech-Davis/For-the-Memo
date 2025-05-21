@@ -1,2 +1,4 @@
 # For-the-Memo
 Assistive learning BCI
+
+The goal of our project is to create an adaptive learning system that reinforces study material through the neural response of a participant. An EEG will be used to monitor alpha (8-12 Hz) and theta (4-7 Hz) waves in order to measure the cognitive load of the participant during a given task. A decrease in alpha waves and an increase in theta waves would help indicate cognitive struggle and/or lack of confidence of the participant. While an increase in alpha waves and a decrease in theta waves would indicate relaxation and/or confidence of the participant. The adaptive learning system will recognize when the alpha and theta waves of the participant fluctuate and the system will focus on the waves associated with cognitive struggle. When cognitive struggle is detected, the adaptive learning system will repeat study material that the participant is struggling in regardless of whether the participant is correct or incorrect. 
